@@ -1,0 +1,30 @@
+.div1{
+    border: 1px solid   blue;
+}
+
+#par-1{
+    border-style: dotted;
+    border-width: 2px;
+    border-color: mediumvioletred;
+}
+#par-2{
+    border-style: groove;
+    border-width: 4px 10px;
+    border-color: rgb(53, 187, 12);
+}
+#par-3{
+    border-style: double;
+    border-width: 4px 10px;
+    border-color: rgba(62, 13, 223, 0.87);
+}
+#par-4{
+    border-style: double;
+    border-width: 4px 10px 15px;
+    border-color: orangered;
+}
+#par-5{
+    border-style: double;
+    border-width: 4px 10px 15px;
+    border-color: rgba(17, 214, 204, 0.712);
+}
+
